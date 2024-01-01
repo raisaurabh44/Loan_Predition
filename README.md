@@ -1,5 +1,3 @@
-# Practice_001
-# This is our new repo
-# This was new testing line 
+This is my practice file of python 
 
-# This file contain Basic Python coadings 
+It also contain a project 
